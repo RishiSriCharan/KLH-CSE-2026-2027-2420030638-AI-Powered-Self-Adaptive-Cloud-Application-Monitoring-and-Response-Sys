@@ -299,15 +299,15 @@ The platform exposes real-time operational telemetry via Grafana:
 
 ---
 
-## 👥 Team Members
+## ## 👥 Team Members & Project Guidance
 
-| Name | Role | Responsibilities |
-|---|---|---|
-| **[Your Name]** | Lead Developer / PO | Core Architecture, AI Anomaly Engine, MLOps |
-| **[Member 2 Name]** | Scrum Master / DevOps | Kubernetes Manifests, CI/CD, Observability |
-| **[Member 3 Name]** | Security & Backend Dev | DevSecOps Pipelines, Remediation Handlers |
+| S.No | ID Number | Name | Role |
+| --- | --- | --- | --- |
+| **1** | 2420030638 | Rayapureddi Rishi SriCharan | Team Member |
+| **2** | 2420030161 | Yennam Sesank Reddy | Team Member |
+| **3** | 2420090074 | Ramannagari Harshath | Team Member |
+| **Guide** | — | Anugu Swapna | Project Guide |
 
----
 
 ## 📄 License
 
